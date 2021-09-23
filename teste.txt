@@ -1,1 +1,3 @@
 Arquivo criado para revisão das aulas de GIT na Avanade!
+
+Teste para conflito em merge!
